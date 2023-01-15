@@ -1,3 +1,5 @@
+A react web application that fetches dad jokes from an api and displays them with each click.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
