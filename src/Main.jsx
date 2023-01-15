@@ -26,7 +26,7 @@ export const Main = () => {
     },[setup]);
 
     return <div className='main-container'>
-        <h1>Dad jokes</h1>
+        <h1>jokes za usito</h1>
         <div className='underline'></div>
         <div className='container'>
             <h3> Wait for the punchline</h3>
