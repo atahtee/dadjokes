@@ -29,7 +29,7 @@ export const Main = () => {
         <h1>dad jokes</h1>
         <div className='underline'></div>
         <div className='container'>
-            <h3> Wait for the punchline</h3>
+            <h3> Wait the punchline </h3>
             <div className='joke-text'>{setup}</div>
             {showPunchLine && (
                  <div className='joke-text'>
