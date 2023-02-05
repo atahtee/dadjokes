@@ -37,7 +37,7 @@ export const Main = () => {
                  {String.fromCodePoint(0x1f602)}
              </div>
             )}
-            <button className='button' onClick={fetchJoke}>Generate Joke</button>
+            <button className='button' onClick={fetchJoke}>Generate a Joke</button>
 
         </div>
     </div>;
