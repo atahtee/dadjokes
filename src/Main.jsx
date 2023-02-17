@@ -22,7 +22,7 @@ export const Main = () => {
         setShowPunchLine(false);
         setTimeout(()=>{
             setShowPunchLine(true);
-        },4000)
+        },3000)
     },[setup]);
 
     return <div className='main-container'>
